@@ -17,6 +17,20 @@ if (isNaN(n)) {
 }
 */
 
+//Oppgave 2
+/
+var num1 = prompt("Skriv det første tallet", "Skriv tallet her");
+var num2 = prompt("Skriv det andre tallet", "Skriv tallet her");
+
+if (num1 > num2) {
+    console.log({num1} + "er større enn" + {num2});
+} else if(num2 > num1) {
+    console.log({num1} + "er mindre enn" + {num2});
+} else {
+    console.log("Tallene er like store");
+}
+*/
+
 //Oppgave 7
 /*
 var riktigTall = Math.floor(Math.random() * 51); // Velger et tilfeldig tall mellom 0 og 50
