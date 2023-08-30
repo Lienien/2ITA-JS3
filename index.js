@@ -49,7 +49,7 @@ if (årstid == 1) {
 */
 
 //Oppgave 4
-
+/*
 var T1 = Math.floor(Math.random() * 101);
 var T2 = Math.floor(Math.random() * 101);
 var T3 = Math.floor(Math.random() * 101);
@@ -58,6 +58,21 @@ var T5 = Math.floor(Math.random() * 101);
 var T6 = Math.floor(Math.random() * 101);
 
 console.log("Tallene er " + T1+", "+T2+", "+T3+", "+T4+", "+T5+" og "+T6);
+*/
+
+//Oppgave 5
+/*
+for (let i = 1; i < 31; i++) {
+    console.log(i);
+}
+*/
+
+//Oppgave 6
+/*
+for (let i = 1; i < 31; i = i + 2) {
+    console.log(i);  
+}
+*/
 
 //Oppgave 7
 /*
